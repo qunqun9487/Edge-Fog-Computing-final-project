@@ -43,7 +43,7 @@ python3 draw.py
 | `W`   | Draws the capital letter W       |
 | `E`   | Draws a lowercase e (line + arc) |
 | `LOVE`| Draws a heart shape              |
-| `U`   | Draws the "UJesik" combined path |
+| `U`   | Draws the "Jesik" combined path |
 
 ## 🧠 Model Notes
 
